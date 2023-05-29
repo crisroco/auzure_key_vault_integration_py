@@ -6,7 +6,7 @@ Funcionalidad: insertar y actualizar un secreto en azure key vault
 Dependencias:
 
   Ejecutar comando para descargar dependencias de python
-    pip install azure-identity azure-keyvault-secrets
+    "pip install azure-identity azure-keyvault-secrets"
 
   Configurar permisos de accesos
-    https://learn.microsoft.com/en-us/azure/key-vault/general/assign-access-policy?tabs=azure-portal
+    "https://learn.microsoft.com/en-us/azure/key-vault/general/assign-access-policy?tabs=azure-portal"
